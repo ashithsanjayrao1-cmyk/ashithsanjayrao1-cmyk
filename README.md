@@ -5,8 +5,12 @@
 
 <br/>
 
-<!-- SOCIAL & CONTACT BADGES -->
+<!-- SOCIAL, PORTFOLIO & CONTACT BADGES -->
 <p align="center">
+  <a href="https://ashithsanjayrao1-cmyk.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-ashithsanjayrao1--cmyk.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ashith-sanjay-rao-b50607303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ashith--sanjay--rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -31,6 +35,7 @@
 ```yaml
 Name: Ashith Sanjay Rao
 Degree: Master of Computer Applications (MCA Graduate)
+Portfolio: https://ashithsanjayrao1-cmyk.github.io/
 Specialization: Full-Stack Python Engineering, Scalable Backends & System Design
 Focus: Asynchronous RESTful APIs, Relational Data Modeling, Zero-Trust Security
 Problem_Solving: Active Data Structures & Algorithms (DSA) Practitioner in Python
@@ -39,6 +44,7 @@ Availability: Immediate (0-Day Notice Period)
 ```
 
 - 🎓 **Master of Computer Applications (MCA) Graduate** with strong foundations in computer science, software engineering, and database systems.
+- 🌐 **Interactive Portfolio**: Explore my live sandbox and system architectures at **[ashithsanjayrao1-cmyk.github.io](https://ashithsanjayrao1-cmyk.github.io/)**.
 - 🚀 **Full-Stack Python & Backend Engineer** experienced in building high-throughput asynchronous web services and production platforms using **FastAPI**, **Django**, **Flask**, and **React.js**.
 - 🔐 **Security & System Design Focused**: Experienced in implementing Role-Based Access Control (RBAC), bcrypt cryptographic password hashing, and tamper-proof JSON Web Token (JWT) Bearer authentication.
 - 🧮 **Algorithmic Problem Solver**: Actively solving Data Structures & Algorithms problems daily in Python covering Two Pointers, Sliding Window, Binary Search, Linked Lists, Recursion, and Sorting.
@@ -134,6 +140,10 @@ Availability: Immediate (0-Day Notice Period)
 </p>
 
 <p align="center">
+  <a href="https://ashithsanjayrao1-cmyk.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashith-sanjay-rao-b50607303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ashith--sanjay--rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
